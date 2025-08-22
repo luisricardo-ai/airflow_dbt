@@ -1,2 +1,7 @@
 .env
 .venv/
+
+# DBT
+target/
+dbt_packages/
+logs/
