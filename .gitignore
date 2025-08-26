@@ -5,3 +5,5 @@
 target/
 dbt_packages/
 logs/
+
+*.csv
